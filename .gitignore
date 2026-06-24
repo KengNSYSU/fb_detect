@@ -6,6 +6,7 @@ config.json
 fb_posts_output.csv
 fb_posts_output.json
 sent_posts_cache.json
+*.pem
 __pycache__/
 *.pyc
 .DS_Store
