@@ -1,0 +1,11 @@
+venv/
+.venv/
+facebook_cookie.json
+discord_link.txt
+config.json
+fb_posts_output.csv
+fb_posts_output.json
+sent_posts_cache.json
+__pycache__/
+*.pyc
+.DS_Store
